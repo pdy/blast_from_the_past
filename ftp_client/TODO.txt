@@ -1,0 +1,2 @@
+1. Pakietowanie danych dla metody GetFile() i PutFile()
+2. Predefinicje do kompilacji dla linuxa
