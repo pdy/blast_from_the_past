@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/save.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/up.png</file>
+        <file>images/down.png</file>
+        <file>images/akumulator.PNG</file>
+        <file>images/report.PNG</file>
+        <file>images/measure.PNG</file>
+        <file>images/report_widget/editcopy.png</file>
+        <file>images/report_widget/editcut.png</file>
+        <file>images/report_widget/editpaste.png</file>
+        <file>images/report_widget/editredo.png</file>
+        <file>images/report_widget/editundo.png</file>
+        <file>images/report_widget/exportpdf.png</file>
+        <file>images/report_widget/filenew.png</file>
+        <file>images/report_widget/fileopen.png</file>
+        <file>images/report_widget/fileprint.png</file>
+        <file>images/report_widget/filesave.png</file>
+        <file>images/report_widget/textbold.png</file>
+        <file>images/report_widget/textcenter.png</file>
+        <file>images/report_widget/textitalic.png</file>
+        <file>images/report_widget/textjustify.png</file>
+        <file>images/report_widget/textleft.png</file>
+        <file>images/report_widget/textright.png</file>
+        <file>images/report_widget/textunder.png</file>
+        <file>images/report_widget/zoomin.png</file>
+        <file>images/report_widget/zoomout.png</file>
+        <file>images/right.png</file>
+        <file>images/add_battery.PNG</file>
+        <file>images/add_folder.PNG</file>
+        <file>images/white_el_logo.PNG</file>
+    </qresource>
+</RCC>
